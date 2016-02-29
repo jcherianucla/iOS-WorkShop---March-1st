@@ -13,7 +13,7 @@ Facebook: https://www.facebook.com/jahan.cherian
 
 Email: jcherian@media.ucla.edu
 
-Website: jahancherian.com
+Website: http://jahancherian.com
 
 Happy Hacking!
 
